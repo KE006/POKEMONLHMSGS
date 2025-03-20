@@ -1,0 +1,2 @@
+# POKEMONLHMSGS
+Game for LHMSGS
